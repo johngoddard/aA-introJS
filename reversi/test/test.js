@@ -1,7 +1,7 @@
 const assert = require("assert");
 const Board = require("../lib/board.js");
 const Piece = require("../lib/piece.js");
-const Game = require("../lib/game.js");
+// const Game = require("../lib/game.js");
 
 describe("Piece", function () {
   let darkPiece,
